@@ -38,5 +38,6 @@ or sharing my knowledge with the developer community.
 ## 📊 GitHub Stats
 
 ![Kundan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kundan7872&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kundan7872&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kundan7872&theme=tokyonight)
 ---
