@@ -17,6 +17,9 @@ or sharing my knowledge with the developer community.
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/JDBC-007396?logo=java&logoColor=white&style=flat" />
+<img src="https://img.shields.io/badge/Advanced%20Java-007396?logo=java&logoColor=white" />
+
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
